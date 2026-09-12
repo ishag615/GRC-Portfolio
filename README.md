@@ -211,7 +211,6 @@ Four scripts plus a Streamlit dashboard that together simulate the automated com
 **Frameworks:** ISO 27001, NIST CSF 2.0, HIPAA, SOC 2, NIST SP 800-63B, NIST SP 800-53
 **Automation:** Python, pandas, openpyxl, matplotlib, plotly, reportlab, streamlit
 **GRC Platforms (conceptual):** Drata, Vanta, ServiceNow GRC
-**Security Research Tools:** Wireshark, NRF Sniffer (faculty-mentored IoT security research)
 **Documentation:** Markdown, Microsoft Word, PDF
 **Version Control:** Git / GitHub
 
